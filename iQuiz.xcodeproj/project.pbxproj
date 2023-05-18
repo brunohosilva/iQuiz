@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A17154EA2A15ACF40021371A /* QuestaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17154E92A15ACF40021371A /* QuestaoViewController.swift */; };
+		A17154EC2A15B3BE0021371A /* Questao.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17154EB2A15B3BE0021371A /* Questao.swift */; };
+		A17154EE2A15BB3B0021371A /* DesempenhoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17154ED2A15BB3B0021371A /* DesempenhoViewController.swift */; };
 		B66788A52A145E29007BEF7A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66788A42A145E29007BEF7A /* AppDelegate.swift */; };
 		B66788A72A145E29007BEF7A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66788A62A145E29007BEF7A /* SceneDelegate.swift */; };
 		B66788A92A145E29007BEF7A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66788A82A145E29007BEF7A /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A17154E92A15ACF40021371A /* QuestaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestaoViewController.swift; sourceTree = "<group>"; };
+		A17154EB2A15B3BE0021371A /* Questao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questao.swift; sourceTree = "<group>"; };
+		A17154ED2A15BB3B0021371A /* DesempenhoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesempenhoViewController.swift; sourceTree = "<group>"; };
 		B66788A12A145E29007BEF7A /* iQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B66788A42A145E29007BEF7A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B66788A62A145E29007BEF7A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				B66788AD2A145E2E007BEF7A /* Assets.xcassets */,
 				B66788AF2A145E2E007BEF7A /* LaunchScreen.storyboard */,
 				B66788B22A145E2E007BEF7A /* Info.plist */,
+				A17154E92A15ACF40021371A /* QuestaoViewController.swift */,
+				A17154EB2A15B3BE0021371A /* Questao.swift */,
+				A17154ED2A15BB3B0021371A /* DesempenhoViewController.swift */,
 			);
 			path = iQuiz;
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				B66788A92A145E29007BEF7A /* ViewController.swift in Sources */,
 				B66788A52A145E29007BEF7A /* AppDelegate.swift in Sources */,
 				B66788A72A145E29007BEF7A /* SceneDelegate.swift in Sources */,
+				A17154EC2A15B3BE0021371A /* Questao.swift in Sources */,
+				A17154EE2A15BB3B0021371A /* DesempenhoViewController.swift in Sources */,
+				A17154EA2A15ACF40021371A /* QuestaoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
